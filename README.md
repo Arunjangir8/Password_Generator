@@ -10,7 +10,6 @@ A modern, secure password generator built with React, Vite, and Tailwind CSS.
 - Copy passwords to clipboard with one click
 - Password strength indicator
 - Mobile-responsive design
-- Dark/light mode toggle
 
 ## Demo
 
@@ -21,10 +20,10 @@ A modern, secure password generator built with React, Vite, and Tailwind CSS.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/Arunjangir8/Password_Generator.git
 
 # Navigate to the project directory
-cd password-generator
+cd password_generator
 
 # Install dependencies
 npm install
@@ -56,16 +55,13 @@ The build artifacts will be stored in the `dist/` directory.
 ## Project Structure
 
 ```
-password-generator/
+password_generator/
 ├── public/
 │   └── favicon.ico
 ├── src/
 │   ├── assets/
-│   ├── components/
-│   │   ├── PasswordGenerator.jsx
-│   │   ├── PasswordStrengthMeter.jsx
-│   │   └── ...
 │   ├── App.jsx
+│   ├── App.css
 │   ├── main.jsx
 │   └── index.css
 ├── .gitignore
@@ -106,6 +102,4 @@ The password generation algorithm can be found in `src/components/PasswordGenera
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/password-generator](https://github.com/yourusername/password-generator)
+arunjangir9987email@example.com
